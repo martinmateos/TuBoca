@@ -1,0 +1,11 @@
+﻿namespace TuBoca
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class Page2 : ContentPage
+    {
+        public Page2()
+        {
+            InitializeComponent();
+        }
+    }
+}
