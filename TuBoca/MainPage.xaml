@@ -6,19 +6,15 @@
              mc:Ignorable="d"
              x:Class="TuBoca.MainPage">
 
-    <StackLayout Orientation="Vertical">
+    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
         <!-- Place new controls here -->
-        <Label Text="Bienvenido a TuVocación" FontSize="Large" 
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
-        <Entry x:Name="Nombre" Placeholder="ingresa tu nombre" />
-        <Entry x:Name="Apellido"  Placeholder="ingresa tu apellido" />
-        <Button x:Name="Test" Text="Realizar el test!!!!"
-                HorizontalOptions="Center"
-                Clicked="Test_Clicked"/>
-        <Button x:Name="Carreras" Text="Carreras y Universidades Cerca de Mi" VerticalOptions="Center" HorizontalOptions="Center"
-                Clicked="Carreras_Clicked"/>
-
+        <Image Source="TuVocacion1.png" WidthRequest="60" HeightRequest="60"/>
+        <Entry x:Name="EntName" Placeholder="ingresa tu nombre" />
+        <Entry x:Name="EntLastName"  Placeholder="ingresa tu apellido" />
+        <Button x:Name="BtnGuardarUser" 
+                Text="¡Comencemos!" 
+                VerticalOptions="Center" HorizontalOptions="Center"
+                Clicked="BtnGuardarUser_Clicked"/>
     </StackLayout>
 
 </ContentPage>
