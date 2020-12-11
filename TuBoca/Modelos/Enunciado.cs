@@ -14,7 +14,7 @@ namespace TuBoca.Modelos
         public int ID { get; set; }
 
 
-        public Personalidad Tipo { get; set; }
+        public char Tipo { get; set; }
 
         public string Data
         {
@@ -27,7 +27,7 @@ namespace TuBoca.Modelos
 
     public class ListEnunciado
     {
-        public List<Enunciado> enunciados { get; set; }
+        public List<Enunciado> Enunciados { get; set; }
     }
     
            

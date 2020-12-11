@@ -19,13 +19,19 @@ namespace TuBoca.Paginas
         {
             InitializeComponent();
         }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            LoadEnunciado();
+        }
 
         void LoadEnunciado ()
         {
             string jsonFileName = "Enunciados.json";
             ListEnunciado ObjListEnunciado = new ListEnunciado();
             var assembly = typeof(Test).GetTypeInfo().Assembly;
-            Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.{jsonFileName}");
+            Stream stream = assembly.GetManifestResourceStream($"{assembly.GetName().Name}.Archivos.{jsonFileName}");
             using (var reader = new System.IO.StreamReader(stream))
             {
                 var jsonString = reader.ReadToEnd();
@@ -33,7 +39,7 @@ namespace TuBoca.Paginas
                 //Convirtiendo el arreglo de objetos JSON en una lista generica
                 ObjListEnunciado = JsonConvert.DeserializeObject<ListEnunciado>(jsonString);
             }
-            //listViewEnunciado.ItemSource = ObjListEnunciado.enunciados;
+            listViewEnunciado.ItemsSource = ObjListEnunciado.Enunciados;
         }
     }
 }

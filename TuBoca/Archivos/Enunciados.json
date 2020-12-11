@@ -1,5 +1,5 @@
 {
-  "enunciado": [
+  "Enunciados": [
     {
       "id": "1",
       "contenido": "Me gusta realizar reparaciones de equipos electrodomesticos.",
@@ -19,136 +19,136 @@
       "id": "4",
       "contenido": "Me gustaría cuidar personas con enfermedades mentales. ",
       "tipo": "S"
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    },
-    {
-      "id": "",
-      "contenido": "",
-      "tipo": ""
-    }
+    }//,
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //},
+    //{
+    //  "id": "",
+    //  "contenido": "",
+    //  "tipo": ""
+    //}
   ]
 }

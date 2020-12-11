@@ -29,8 +29,8 @@ namespace TuBoca
 
         private async void BtnGuardarUser_Clicked(object sender, EventArgs e) //recordar volver a poner async para navegar entre paginas
         {
-            CreateUser();
-            SerializarUser();
+            //CreateUser();
+            //SerializarUser();
             await Navigation.PushAsync(new Test());
         }
 
