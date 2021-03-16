@@ -2,13 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TuBoca.Paginas.Test">
-    <StackLayout>
-        <ListView x:Name="listViewEnunciado">
+    <StackLayout BindingContext="">
+    
+        <ListView x:Name="listViewEnunciado" >
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Data}" />
+                    <TextCell Text="{Binding Data}"  />
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>
+        </ListView> 
+        <Label x:Name="enunciadoLabel" Text="{Binding}" LineBreakMode="CharacterWrap">
+        </Label>
+        <Button x:Name="btnNext" Clicked="btnNext_Clicked"/>
     </StackLayout>
 </ContentPage>

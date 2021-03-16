@@ -39,7 +39,22 @@ namespace TuBoca.Paginas
                 //Convirtiendo el arreglo de objetos JSON en una lista generica
                 ObjListEnunciado = JsonConvert.DeserializeObject<ListEnunciado>(jsonString);
             }
-            listViewEnunciado.ItemsSource = ObjListEnunciado.Enunciados;
+            
+            //listViewEnunciado.ItemsSource = ObjListEnunciado.Enunciados;
+
+            /*
+            foreach(Enunciado enunciado in ObjListEnunciado.Enunciados)
+            {
+                 
+            }*/
+        }
+
+        /* este boton hara que al clickearse se recorra la lista al siguiente objeto
+        y sume al tipo de personalidad del enunciado
+         */
+        private void btnNext_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
 }
