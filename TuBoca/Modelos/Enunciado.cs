@@ -20,7 +20,7 @@ namespace TuBoca.Modelos
         {
             get
             {
-                return string.Format("{0}, {1}, {2}", ID, Contenido, Tipo);
+                return string.Format("{0}, {1}", ID, Contenido);
             }
         }
     }
