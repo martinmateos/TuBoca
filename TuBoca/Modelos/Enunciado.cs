@@ -4,15 +4,11 @@ using System.Text;
 using SQLite;
 namespace TuBoca.Modelos
 {
-    //[Table("enunciado")]
     public class Enunciado
     {
-        //[MaxLength (300)]
         public string Contenido { get; set; }
-
-        //[PrimaryKey, AutoIncrement]
+        
         public int ID { get; set; }
-
 
         public char Tipo { get; set; }
 

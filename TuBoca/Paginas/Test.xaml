@@ -3,12 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TuBoca.Paginas.Test">
     <StackLayout BindingContext="">
-        <Label x:Name="enunciadoLabel" Text="{Binding}" LineBreakMode="CharacterWrap">
-        </Label>
-        
-        <StackLayout Orientation="Horizontal">
-            <Button x:Name="btnNext" Clicked="btnNext_Clicked"/>
-            <Button x:Name="btnBack" Clicked="btnBack_Clicked" />
+        <Label x:Name="enunciadoLabel" Text="{Binding}" LineBreakMode="CharacterWrap"/>
+        <Slider BackgroundColor="Black" x:Name="barra"
+                Maximum="5"
+                Minimum="0"
+                
+                ValueChanged="slider_ValueChanged"/>
+        <Label Text="none"
+               x:Name="valorLabel"/>
+            
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button x:Name="btnBack" Clicked="btnBack_Clicked" Text="Retroceder"/>
+            <Button x:Name="btnNext" Clicked="btnNext_Clicked" Text="Siguiente"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>

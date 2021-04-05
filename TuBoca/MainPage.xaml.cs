@@ -7,6 +7,7 @@ using System.Reflection;
 using TuBoca.Modelos;
 using TuBoca.Paginas;
 using Xamarin.Forms;
+using System.Linq;
 
 namespace TuBoca
 {
@@ -20,7 +21,7 @@ namespace TuBoca
 
         //fin variables
 
-        ListUser ObjListUser;
+        ListUser ObjListUser = new ListUser();
         public MainPage()
         {
             InitializeComponent();
@@ -34,18 +35,15 @@ namespace TuBoca
             await Navigation.PushAsync(new Test());
         }
 
-        private void CreateUser(int idUser = 0) //Crea un usuario y lo agrega a la lista Usuarios.
+        private void CreateUser(int id=1) //Crea un usuario y lo agrega a la lista Usuarios.
         {
             Usuario usuario = new Usuario()
             {
-                ID = idUser++,
+                ID = id++,
                 Nombre = EntName.Text,
                 Apellido = EntLastName.Text
             };
             ObjListUser.usuarios.Add(usuario);
-
-            //await DisplayAlert("Usuario", "Su nombre es " + EntName.Text + " " + EntLastName.Text, "Aceptar");
-            
         }
 
         private void SerializarUser()
