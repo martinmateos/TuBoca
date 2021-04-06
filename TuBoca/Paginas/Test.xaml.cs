@@ -97,20 +97,21 @@ namespace TuBoca.Paginas
             }
         }
 
-        
+
+        int rea, inv, art, soc, emp, con;
         private void SumPersonalidad(int realista, int investigador, int artistico, int social, int emprendedor, int convencional)
         {
             double value = barra.Value;
             Personalidad personalidad = new Personalidad()
             { 
-                Realista = realista,
-                Investigador = investigador, 
-                Artistico = artistico,
-                Social = social,
-                Emprendedor = emprendedor,
-                Convencional = convencional
+                Realista = rea,
+                Investigador = inv, 
+                Artistico = art,
+                Social = soc,
+                Emprendedor = emp,
+                Convencional = con
             };
-
+            
             var query =
                 from Enunciado enunciado in ObjListEnunciado.Enunciados
                 where enunciado.ID == idEnunciado
@@ -260,6 +261,12 @@ namespace TuBoca.Paginas
                 }
 
             }
+            rea = rea + realista;
+            inv = inv + investigador;
+            art = art + artistico;
+            soc = soc + social;
+            emp = emp + emprendedor;
+            con = con + convencional;
         }
 
         private void slider_ValueChanged(object sender, ValueChangedEventArgs e)

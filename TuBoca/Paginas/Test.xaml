@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TuBoca.Paginas.Test">
     <StackLayout BindingContext="">
-        <Label x:Name="enunciadoLabel" Text="{Binding}" LineBreakMode="CharacterWrap"/>
+        <Label x:Name="enunciadoLabel" Text="{Binding}" LineBreakMode="CharacterWrap" />
         <Slider BackgroundColor="Black" x:Name="barra"
                 Maximum="5"
                 Minimum="0"

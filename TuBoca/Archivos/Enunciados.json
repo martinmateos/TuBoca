@@ -19,136 +19,286 @@
       "id": "4",
       "contenido": "Me gustaría cuidar personas con enfermedades mentales. ",
       "tipo": "S"
-    }//,
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //},
-    //{
-    //  "id": "",
-    //  "contenido": "",
-    //  "tipo": ""
-    //}
+    },
+    {
+      "id": "5",
+      "contenido": "Me siento bien y me las arreglo cuando tengo que organizar  el trabajo de mis compañeros y compañeras. Fijarles tareas  y comprobar si han sido realizadas",
+      "tipo": "E"
+    },
+    {
+      "id": "6",
+      "contenido": "Me gusta llevar mis cuadernos de manera ordenada y limpia",
+      "tipo": "C"
+    },
+    {
+      "id": "7",
+      "contenido": "Me gustaría trabajar en el servicio técnico de una empresa",
+      "tipo": "R"
+    },
+    {
+      "id": "8",
+      "contenido": "Me gustaría trabajar en un centro de investigación  o en un laboratorio.",
+      "tipo": "I"
+    },
+    {
+      "id": "9",
+      "contenido": "En el futuro me gustaría escribir poemas,  guiones de películas o de juegos de video",
+      "tipo": "A"
+    },
+    {
+      "id": "10",
+      "contenido": "Me gusta mucho participar en organizaciones no  gubernamentales como la Cruz Roja o una organización  de jóvenes exploradores.",
+      "tipo": "S"
+    },
+    {
+      "id": "11",
+      "contenido": "A veces en la escuela soluciono conflictos  de mis compañeros y compañeras.",
+      "tipo": "E"
+    },
+    {
+      "id": "12",
+      "contenido": "En mi puesto de trabajo me gustaría trabajar  según normas estrictamente definidas.",
+      "tipo": "C"
+    },
+    {
+      "id": "13",
+      "contenido": "Me interesan los aspectos técnicos de la industria automotriz",
+      "tipo": "R"
+    },
+    {
+      "id": "14",
+      "contenido": "Me interesan los descubrimientos científicos  y las nuevas invenciones",
+      "tipo": "I"
+    },
+    {
+      "id": "15",
+      "contenido": "Me gusta ver exposiciones de esculturas, pintura o fotografía",
+      "tipo": "A"
+    },
+    {
+      "id": "16",
+      "contenido": "Me gusta participar en labores sociales",
+      "tipo": "S"
+    },
+    {
+      "id": "17",
+      "contenido": "En las actividades de grupo fomento el liderazgo  y la coordinación",
+      "tipo": "E"
+    },
+    {
+      "id": "18",
+      "contenido": "Me gustaría tener un trabajo donde tenga  que realizar tareas muy precisas",
+      "tipo": "C"
+    },
+    {
+      "id": "19",
+      "contenido": "Dibujar esquemas o proyectos de equipos es una tarea  interesante y agradable para mí.",
+      "tipo": "R"
+    },
+    {
+      "id": "20",
+      "contenido": "Me gusta hacer experimentos y observar cómo se hacen",
+      "tipo": "I"
+    },
+    {
+      "id": "21",
+      "contenido": "Me gusta participar en clases de arte, música o de literatura",
+      "tipo": "A"
+    },
+    {
+      "id": "22",
+      "contenido": "Me sentiría bien ayudando a las demás personas  a comprenderse. ",
+      "tipo": "S"
+    },
+    {
+      "id": "23",
+      "contenido": "Me gusta tomar la palabra en diferentes discusiones  y convencer a la gente.",
+      "tipo": "E"
+    },
+    {
+      "id": "24",
+      "contenido": "Me gusta respetar y cumplir las fechas límites",
+      "tipo": "C"
+    },
+    {
+      "id": "25",
+      "contenido": "En el futuro me gustaría trabajar con herramientas  y equipos técnicos",
+      "tipo": "R"
+    },
+    {
+      "id": "26",
+      "contenido": "Me gusta ver los programas de televisión dedicados  a las novedades científicas.",
+      "tipo": "I"
+    },
+    {
+      "id": "27",
+      "contenido": "Me interesan las revistas dedicadas al arte,  a los muebles y a la arquitectura",
+      "tipo": "A"
+    },
+    {
+      "id": "28",
+      "contenido": "Con muchas ganas y gran dedicación enseñaría  a jóvenes cómo evitar ciertas adicciones.",
+      "tipo": "S"
+    },
+    {
+      "id": "29",
+      "contenido": "Me gustaría liderar un grupo de mis compañeros  y compañeras para organizar una fiesta escolar",
+      "tipo": "E"
+    },
+    {
+      "id": "30",
+      "contenido": "Me gustaría tener un trabajo tranquilo, con reglas  o instrucciones claras.",
+      "tipo": "C"
+    },
+    {
+      "id": "31",
+      "contenido": "Conozco el diseño y el funcionamiento del computador",
+      "tipo": "R"
+    },
+    {
+      "id": "32",
+      "contenido": "Cuando paseo en las montañas o en un bosque me  detengo para ver de cerca plantas y árboles que no conozco.",
+      "tipo": "I"
+    },
+    {
+      "id": "33",
+      "contenido": "Me gustaría tocar en un grupo musical o en una orquesta",
+      "tipo": "A"
+    },
+    {
+      "id": "34",
+      "contenido": "En el futuro me gustaría trabajar con niños y niñas",
+      "tipo": "S"
+    },
+    {
+      "id": "35",
+      "contenido": "Sé dar instrucciones y consejos claros a las demás personas",
+      "tipo": "E"
+    },
+    {
+      "id": "36",
+      "contenido": "Por las tardes me gusta planear el trabajo que tengo  que hacer al día siguiente",
+      "tipo": "C"
+    },
+    {
+      "id": "37",
+      "contenido": "Me gustaría trabajar en un taller de mecánica automotriz",
+      "tipo": "R"
+    },
+    {
+      "id": "38",
+      "contenido": "Me interesan nuevas ramas de la ciencia,  como la genética o la biotecnología",
+      "tipo": "I"
+    },
+    {
+      "id": "39",
+      "contenido": "Me gustaría crear o componer algún tipo de música",
+      "tipo": "A"
+    },
+    {
+      "id": "40",
+      "contenido": "Me gustaría ayudar a la gente a resolver  sus problemas sociales.",
+      "tipo": "S"
+    },
+    {
+      "id": "41",
+      "contenido": "Me gustaría desempeñar la presidencia de mi clase",
+      "tipo": "E"
+    },
+    {
+      "id": "42",
+      "contenido": "En mi mesa de estudios me gusta tener todo  perfectamente ordenado",
+      "tipo": "C"
+    },
+    {
+      "id": "43",
+      "contenido": "Me gustaría aprender a hacer dibujos técnicos",
+      "tipo": "R"
+    },
+    {
+      "id": "44",
+      "contenido": "Me gustaría realizar estudios y descubrir la vacuna  contra una enfermedad grave",
+      "tipo": "I"
+    },
+    {
+      "id": "45",
+      "contenido": "Me gustaría hacer dibujos para libros o crear carteles",
+      "tipo": "A"
+    },
+    {
+      "id": "46",
+      "contenido": "En mi futuro trabajo me gustaría ayudar a personas  con discapacidades",
+      "tipo": "S"
+    },
+    {
+      "id": "47",
+      "contenido": "Me gustaría tener un trabajo donde pudiera tomar  decisiones y planear acciones para otras personas",
+      "tipo": "E"
+    },
+    {
+      "id": "48",
+      "contenido": "Me gusta planificar y controlar bien mis gastos.",
+      "tipo": "C"
+    },
+    {
+      "id": "49",
+      "contenido": "Me gusta aprender cómo funcionan los equipos técnicos",
+      "tipo": "R"
+    },
+    {
+      "id": "50",
+      "contenido": "Me gustaría realizar estudios sobre el funcionamiento  del cerebro",
+      "tipo": "I"
+    },
+    {
+      "id": "51",
+      "contenido": "En el futuro me gustaría expresarme mediante  una actividad creativa como: la pintura, el dibujo,  la escultura, el baile o el canto.",
+      "tipo": "A"
+    },
+    {
+      "id": "52",
+      "contenido": "Me gustaría trabajar en un centro de ayuda telefónica  para jóvenes",
+      "tipo": "S"
+    },
+    {
+      "id": "53",
+      "contenido": "Me gustaría aprender a liderar a la gente para gestionar  sus acciones",
+      "tipo": "E"
+    },
+    {
+      "id": "54",
+      "contenido": "Me gusta tener ordenada mi habitación y mi mesa de estudios",
+      "tipo": "C"
+    },
+    {
+      "id": "55",
+      "contenido": "Me gustaría diseñar o arreglar máquinas y equipos modernos",
+      "tipo": "R"
+    },
+    {
+      "id": "56",
+      "contenido": "Me interesan nuevas ramas de la ciencia y la tecnología",
+      "tipo": "I"
+    },
+    {
+      "id": "57",
+      "contenido": "Me gustaría actuar en un escenario:  bailar, cantar e interpretar papeles.",
+      "tipo": "A"
+    },
+    {
+      "id": "58",
+      "contenido": "Me sentiría bien ayudando a personas nerviosas  o tristes por algún motivo.",
+      "tipo": "S"
+    },
+    {
+      "id": "59",
+      "contenido": "Me gusta dirigir el trabajo de las demás personas",
+      "tipo": "E"
+    },
+    {
+      "id": "60",
+      "contenido": "Me gusta organizar mi trabajo día a día y para la semana",
+      "tipo": "C"
+    }
   ]
 }
