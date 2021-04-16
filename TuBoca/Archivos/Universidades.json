@@ -1,0 +1,53 @@
+  [
+    {
+      "id": "0",
+      "nombre": "I.S.F.D. y T. nº 6 ",
+      "Direccion": "Av. J.L. Suárez 25",
+      "numContacto": "02346 - 422304",
+      "numContacto2": "",
+      "web": "https://isfd6chivil.wixsite.com/isfdyt6",
+      "redsocial": "https://www.facebook.com/isfdyt6chivilcoy/?__xts__[0]=68.ARC00Rf5oQLhsL2nZkXr36HHR76Et2N1EqAjzKtlns8KuHNse6ulVHz8CEd2ONfdMsc-o7deXJMlimcS-GryCWJWuSKg1XYUXYZXySdPOy7-y_ulzn8H6SPsPZ5MMwDr6hJA3oalS1Pm0nODmNlLk0EMsNhdw2fB98wYgcGAQ1dD4nV-muf-z_P3PpPL8NQjNQqRfSiF9cATDj5Z",
+      "correo": ""
+    },
+    {
+      "id": "1",
+      "nombre": "Centro Universitario Chivilcoy",
+      "Direccion": "Av. C. Calderón 424",
+      "numContacto": "2346 - 432493",
+      "numContacto2": "",
+      "web": "http://cuch.gob.ar/",
+      "redsocial": "https://www.facebook.com/cuchivilcoy",
+      "correo": "centrouniversitario@chivilcoy.gob.ar"
+    },
+    {
+      "id": "2",
+      "nombre": "Universidad Regional de Lujan (Centro Regional Chivilcoy)",
+      "Direccion": "Calle 110 (El Grito de Alcorta) 110",
+      "numContacto": "2346 - 424593",
+      "numContacto2": "2346 - 427183",
+      "web": "http://www.chivilcoy.unlu.edu.ar/?q=node/7",
+      "redsocial": "https://www.facebook.com/unlucrch/?fref=ts",
+      "correo": "unlucrch@unlu.edu.ar"
+    },
+    {
+      "id": "3",
+      "nombre": "Santa Rosa",
+      "Direccion": "Zapiola 277",
+      "numContacto": "2346 - 526702",
+      "numContacto2": "",
+      "web": "http://ifdtsantarosa.com/",
+      "redsocial": "https://www.facebook.com/Instituto-Santa-Rosa-358661667811656/videos/?ref=page_internal",
+      "correo": " info@ifdtsantarosa.com"
+    },
+    {
+      "id": "4",
+      "nombre": "ESCUELA DE ARTES VISUALES CHIVILCOY",
+      "Direccion": "Pje. Fournier 34",
+      "numContacto": "2346 - 428201",
+      "numContacto2": "",
+      "web": "https://www.artesvisualeschivilcoy.edu.ar/",
+      "redsocial": "https://www.facebook.com/artesvisualeschivilcoy",
+      "correo": ""
+    }
+  ]
+

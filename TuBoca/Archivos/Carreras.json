@@ -1,0 +1,283 @@
+[
+    {
+      "id": "0",
+      "idUni": "0",
+      "nombre": "Profesorado de Educacion Inicial",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "1",
+      "idUni": "0",
+      "nombre": "Profesorado de Educacion Primaria",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "3",
+      "idUni": "0",
+      "nombre": "Profesorado de Educacion Especial",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "4",
+      "idUni": "0",
+      "nombre": "Profesorado de Educación Especial Orientación en Discapacidad Intelectual ",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "5",
+      "idUni": "0",
+      "nombre": "Profesorado de Lengua y Literatura  ",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "6",
+      "idUni": "0",
+      "nombre": "Profesorado de Matemática  ",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "7",
+      "idUni": "0",
+      "nombre": "Profesorado de Historia",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "8",
+      "idUni": "0",
+      "nombre": "Profesorado de Geografía",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "9",
+      "idUni": "0",
+      "nombre": "Profesorado de Biología",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "10",
+      "idUni": "0",
+      "nombre": "Profesorado de Física ",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "11",
+      "idUni": "0",
+      "nombre": "Profesorado de Inglés ",
+      "duracion": "4",
+      "url": ""
+    },
+    {
+      "id": "12",
+      "idUni": "0",
+      "nombre": "Tecnicatura superior en análisis, desarrollo y programación de aplicaciones ",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "13",
+      "idUni": "1",
+      "nombre": "Tecnicatura Universitaria en Acompañamiento Terapéutico ",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "14",
+      "idUni": "1",
+      "nombre": "Tecnicatura en Administración de Recursos Humanos ",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "15",
+      "idUni": "1",
+      "nombre": "Tecnicatura universitaria en Bromatología y Medio Ambiente  ",
+      "duracion": "2",
+      "url": ""
+    },
+    {
+      "id": "16",
+      "idUni": "1",
+      "nombre": "Tecnicatura en Construcciones ",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "17",
+      "idUni": "1",
+      "nombre": "Diplomatura Universitaria en Dirección de Instituciones Educativas ",
+      "duracion": "1.5",
+      "url": ""
+    },
+    {
+      "id": "17",
+      "idUni": "1",
+      "nombre": "Tramo de Formación Pedagógica ",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "18",
+      "idUni": "1",
+      "nombre": "Tecnicatura Universitaria en Higiene y Seguridad en el Trabajo",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "19",
+      "idUni": "1",
+      "nombre": "Diplomatura Universitaria en Industrias Alimentarias",
+      "duracion": "2.5",
+      "url": ""
+    },
+    {
+      "id": "20",
+      "idUni": "1",
+      "nombre": "Diplomatura en Jardineria y Mantenimiento en Espacios Verdes",
+      "duracion": "7 meses",
+      "url": ""
+    },
+    {
+      "id": "21",
+      "idUni": "1",
+      "nombre": "Licenciatura en Nutricion",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "22",
+      "idUni": "1",
+      "nombre": "Diplomatura en Marketing Digital",
+      "duracion": "7 meses",
+      "url": ""
+    },
+    {
+      "id": "23",
+      "idUni": "1",
+      "nombre": "Tecnicatura Universitaria en Programacion",
+      "duracion": "2",
+      "url": ""
+    },
+    {
+      "id": "24",
+      "idUni": "2",
+      "nombre": "Licenciatura en Administración ",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "25",
+      "idUni": "2",
+      "nombre": "Contador Público",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "26",
+      "idUni": "2",
+      "nombre": "Licenciatura en Enfermería ",
+      "duracion": "",
+      "url": ""
+    },
+    {
+      "id": "27",
+      "idUni": "2",
+      "nombre": "Licenciatura en Enfermería ",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "28",
+      "idUni": "2",
+      "nombre": "Licenciatura en Sistemas de Información ",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "29",
+      "idUni": "2",
+      "nombre": "Licenciatura en Trabajo Social ",
+      "duracion": "5",
+      "url": ""
+    },
+    {
+      "id": "30",
+      "idUni": "3",
+      "nombre": "Profesorado de Educación Física ",
+      "duracion": "4",
+      "url": "http://ifdtsantarosa.com/edfisica_planestudios.html  "
+    },
+    {
+      "id": "31",
+      "idUni": "3",
+      "nombre": "Tecnicatura superior en Tecnología en Salud con especialidad en Laboratorio de Análisis Clínicos ",
+      "duracion": "4",
+      "url": "http://ifdtsantarosa.com/psicopedagogia_planestudios.html  "
+    },
+    {
+      "id": "32",
+      "idUni": "3",
+      "nombre": "Tecnicatura Superior en Tecnología en Salud con especialidad en Radiología ",
+      "duracion": "3",
+      "url": "http://ifdtsantarosa.com/radiologia_planestudios.html  "
+    },
+    {
+      "id": "33",
+      "idUni": "3",
+      "nombre": "Tecnicatura Superior en Tecnología en Salud con especialidad en Hemoterapia ",
+      "duracion": "3",
+      "url": ""
+    },
+    {
+      "id": "34",
+      "idUni": "4",
+      "nombre": "Profesor de Diseño Grafico ",
+      "duracion": "4",
+      "url": "http://www.artesvisualeschivilcoy.edu.ar/prof-de-artes-visuales/  "
+    },
+    {
+      "id": "35",
+      "idUni": "4",
+      "nombre": "Diseñador Grafico  ",
+      "duracion": "4",
+      "url": "http://www.artesvisualeschivilcoy.edu.ar/prof-diseno-grafico/  "
+    },
+    {
+      "id": "36",
+      "idUni": "4",
+      "nombre": "Ilustrador Profesional ",
+      "duracion": "4",
+      "url": "http://www.artesvisualeschivilcoy.edu.ar/tec-diseno-grafico/  "
+    },
+    {
+      "id": "37",
+      "idUni": "4",
+      "nombre": "Profesorado de Artes Visuales orientación Pintura, Escultura y Grabado ",
+      "duracion": "4",
+      "url": "http://www.artesvisualeschivilcoy.edu.ar/tec-ilustracion/ "
+    }//,
+    //{
+    //  "id": "",
+    //  "idUni": "",
+    //  "nombre": "",
+    //  "duracion": "",
+    //  "url": ""
+    //},
+    //{
+    //  "id": "",
+    //  "idUni": "",
+    //  "nombre": "",
+    //  "duracion": "",
+    //  "url": ""
+    //}
+  ]
+

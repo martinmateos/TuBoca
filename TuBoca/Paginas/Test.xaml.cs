@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -22,21 +23,36 @@ namespace TuBoca.Paginas
 
             LoadEnunciado();
         }
+        //variable para identificar el enunciado con ID 
+        int idEnunciado = 1;
+        //en esta lista se guardan los enunciados deserializados
+        Enunciado enunciado = new Enunciado();
+        
+        //este objeto de clase tipo personalidad se guardan los puntajes
+        public static Personalidad personalidad = new Personalidad();
+        //Estas variables se utilizan para guardar los puntajes en las propiedades de personalidad
+        //int rea, inv, art, soc, emp, con;
+        double value;
+
+        //public List<Personalidad> personalidades { get; set; }
+
+        Valoracion valoracion = new Valoracion();
+        public List<Valoracion> Valoraciones = new List<Valoracion> { };
+
         /*intento de metodo que devuelva el resultado de la consulta linq
-         * (no funciona)
-        private Enunciado Consulta (Enunciado i)
+         (no funciona)*/
+        private Enunciado Consulta(Enunciado i)
         {
             var query =
                 from Enunciado enunciado in ObjListEnunciado.Enunciados
                 where enunciado.ID == idEnunciado
                 select enunciado == i;
             return i;
-        }*/
+        }
 
-        //variable para identificar el enunciado con ID 
-        int idEnunciado = 1;
         ListEnunciado ObjListEnunciado = new ListEnunciado();
-        void LoadEnunciado ()
+        //carga los enunciados
+        void LoadEnunciado()
         {
             string jsonFileName = "Enunciados.json";
             //ListEnunciado ObjListEnunciado = new ListEnunciado();
@@ -51,37 +67,73 @@ namespace TuBoca.Paginas
             }
 
             //Consulta LINQ sobre enunciados con ID = 1
-           
+
             var query =
                 from Enunciado enunciado in ObjListEnunciado.Enunciados
                 where enunciado.ID == idEnunciado
                 select enunciado;
-            
             //mostramos el enunciado obtenido en la label
             foreach (Enunciado enunciado in query)
             {
                 enunciadoLabel.Text = enunciado.Data;
             }
-            
+            barra.Value = 1;
+            MostrarVars();
         }
-
-
 
         /* este boton hara que al clickearse se recorra la lista al siguiente objeto
         y sume al tipo de personalidad del enunciado*/
         private void btnNext_Clicked(object sender, EventArgs e)
         {
-            SumPersonalidad(personalidad1.Realista, personalidad1.Investigador, personalidad1.Artistico, personalidad1.Social,personalidad1.Emprendedor, personalidad1.Convencional);
+            SumPersonalidad();
             NextEnunciado();
+            Resultado();
         }
-        Personalidad personalidad1 = new Personalidad();
-
 
         /*Este boton al clickearse retrocede la lista en uno y resta al tipo de personalidad
         del enuncidado*/
         private void btnBack_Clicked(object sender, EventArgs e)
         {
+            if(idEnunciado > 1)
+            {
+                var ultiValor = Valoraciones.Last<Valoracion>().Valor;
+                var query =
+                    from Enunciado enunciado in ObjListEnunciado.Enunciados
+                    where enunciado.ID == idEnunciado - 1
+                    select enunciado;
 
+                foreach (Enunciado enunciado in query)
+                {
+                    if (enunciado.Tipo == 'R')
+                    {
+                        personalidad.Realista -= ultiValor;
+                    }
+                    else if (enunciado.Tipo == 'A')
+                    {
+                        personalidad.Artistico -= ultiValor;
+                    }
+                    else if (enunciado.Tipo == 'C')
+                    {
+                        personalidad.Convencional -= ultiValor;
+                    }
+                    else if (enunciado.Tipo == 'S')
+                    {
+                        personalidad.Social -= ultiValor;
+                    }
+                    else if (enunciado.Tipo == 'I')
+                    {
+                        personalidad.Investigador -= ultiValor;
+                    }
+                    else if (enunciado.Tipo == 'E')
+                    {
+                        personalidad.Emprendedor -= ultiValor;
+                    }
+                    Valoraciones.Remove(Valoraciones.Last<Valoracion>());
+                    idEnunciado--;
+                    enunciadoLabel.Text = enunciado.Data;
+                    MostrarVars();
+                }
+            }
         }
 
         void NextEnunciado()
@@ -91,206 +143,120 @@ namespace TuBoca.Paginas
                 from Enunciado enunciado in ObjListEnunciado.Enunciados
                 where enunciado.ID == idEnunciado
                 select enunciado;
+
             foreach (Enunciado enunciado in query)
             {
-                enunciadoLabel.Text = enunciado.Data;
+                enunciadoLabel.Text = enunciado.Contenido;
             }
         }
 
-
-        int rea, inv, art, soc, emp, con;
-        private void SumPersonalidad(int realista, int investigador, int artistico, int social, int emprendedor, int convencional)
+        /*Este metodo se encarga de sumar el valor correspondiente (tomado del valor del slider) a las distintas propiedades de 
+         Personalidad.*/
+        private void SumPersonalidad()
         {
-            double value = barra.Value;
-            Personalidad personalidad = new Personalidad()
-            { 
-                Realista = rea,
-                Investigador = inv, 
-                Artistico = art,
-                Social = soc,
-                Emprendedor = emp,
-                Convencional = con
-            };
-            
+            value = barra.Value;
+            //filtrado del enunciado
             var query =
                 from Enunciado enunciado in ObjListEnunciado.Enunciados
                 where enunciado.ID == idEnunciado
                 select enunciado;
 
+
+            //comienzo de la valoracion
             foreach (Enunciado enunciado in query)
             {
-                if (value >=0 && value <= 1)
+                //si el contenido del enunciado es distinto al del label entonces valuamos de lo contrario navegamos a los resultados
+                valoracion.Valor = Convert.ToInt16(value);
+                Valoraciones.Add(valoracion);
+                if (enunciado.Tipo == 'R')
                 {
-                    if (enunciado.Tipo == 'R')
-                    {
-                        realista++;
-                    }
-                    
-                    if (enunciado.Tipo == 'I')
-                    {
-                        investigador++;
-                    }
+                    personalidad.Realista += Convert.ToInt16(value);
+                }
+                else if (enunciado.Tipo == 'A')
+                {
+                    personalidad.Artistico += Convert.ToInt16(value);
+                }
+                else if (enunciado.Tipo == 'C')
+                {
+                    personalidad.Convencional += Convert.ToInt16(value);
+                }
+                else if (enunciado.Tipo == 'S')
+                {
+                    personalidad.Social += Convert.ToInt16(value);
+                }
+                else if (enunciado.Tipo == 'I')
+                {
+                    personalidad.Investigador += Convert.ToInt16(value);
+                }
+                else if (enunciado.Tipo == 'E')
+                {
+                    personalidad.Emprendedor += Convert.ToInt16(value);
+                }
 
-                    if (enunciado.Tipo == 'A')
-                    {
-                        artistico++;
-                    }
-                    
-                    if (enunciado.Tipo == 'S')
-                    {
-                        social++;
-                    }
-                    
-                    if (enunciado.Tipo == 'E')
-                    {
-                        emprendedor++;
-                    }
-                    
-                    if (enunciado.Tipo == 'C')
-                    {
-                        convencional++;
-                    }
-                }
-                if (value >1 && value <= 2)
+                MostrarVars();
+
+
+                /* 
+                
+                else
                 {
-                    if (enunciado.Tipo == 'R')
-                    {
-                        realista = realista + 2;
-                    }
-                    if (enunciado.Tipo == 'A')
-                    {
-                        artistico = artistico + 2;
-                    }
-                    if (enunciado.Tipo == 'C')
-                    {
-                        convencional = convencional + 2;
-                    }
-                    if (enunciado.Tipo == 'S')
-                    {
-                        social = social + 2;
-                    }
-                    if (enunciado.Tipo == 'I')
-                    {
-                        investigador = investigador + 2;
-                    }
-                    if (enunciado.Tipo == 'E')
-                    {
-                        emprendedor = emprendedor + 2;
-                    }
-                }
-                if (value > 2 && value <= 3)
-                {
-                    if (enunciado.Tipo == 'R')
-                    {
-                        realista = realista + 3;
-                    }
-                    if (enunciado.Tipo == 'A')
-                    {
-                        artistico = artistico + 3;
-                    }
-                    if (enunciado.Tipo == 'C')
-                    {
-                        convencional = convencional + 3;
-                    }
-                    if (enunciado.Tipo == 'S')
-                    {
-                        social = social + 3;
-                    }
-                    if (enunciado.Tipo == 'I')
-                    {
-                        investigador = investigador + 3;
-                    }
-                    if (enunciado.Tipo == 'E')
-                    {
-                        emprendedor = emprendedor + 3;
-                    }
-                }
-                if (value > 3 && value <= 4)
-                {
-                    if (enunciado.Tipo == 'R')
-                    {
-                        realista = realista + 4;
-                    }
-                    if (enunciado.Tipo == 'A')
-                    {
-                        artistico = artistico + 4;
-                    }
-                    if (enunciado.Tipo == 'C')
-                    {
-                        convencional = convencional + 4;
-                    }
-                    if (enunciado.Tipo == 'S')
-                    {
-                        social = social + 4;
-                    }
-                    if (enunciado.Tipo == 'I')
-                    {
-                        investigador = investigador + 4;
-                    }
-                    if (enunciado.Tipo == 'E')
-                    {
-                        emprendedor = emprendedor + 4;
-                    }
-                }
-                if (value > 4 && value <= 5)
-                {
-                    if (enunciado.Tipo == 'R')
-                    {
-                        realista = realista + 5;
-                    }
-                    if (enunciado.Tipo == 'A')
-                    {
-                        artistico = artistico + 5;
-                    }
-                    if (enunciado.Tipo == 'C')
-                    {
-                        convencional = convencional + 5;
-                    }
-                    if (enunciado.Tipo == 'S')
-                    {
-                        social = social + 5;
-                    }
-                    if (enunciado.Tipo == 'I')
-                    {
-                        investigador = investigador + 5;
-                    }
-                    if (enunciado.Tipo == 'E')
-                    {
-                        emprendedor = emprendedor + 5;
-                    }
-                }
+                    await Navigation.PushAsync(new Resultado());
+                }*/
+
 
             }
-            rea = rea + realista;
-            inv = inv + investigador;
-            art = art + artistico;
-            soc = soc + social;
-            emp = emp + emprendedor;
-            con = con + convencional;
+
+
         }
+
+        async private void Resultado()
+        {
+            if (ObjListEnunciado.Enunciados.Last<Enunciado>().ID < idEnunciado)
+            {
+                await Navigation.PushAsync(new Resultado());
+            }
+
+        }
+
+        private void MostrarVars()
+        {
+            realistaLabel.Text = "Su personalidad Realista es: " + personalidad.Realista;
+            investidoraLabel.Text = "Su personalidad Investigador es: " + personalidad.Investigador;
+            artisticaLabel.Text = "Su personalidad Artistico es: " + personalidad.Artistico;
+            socialLabel.Text = "Su personalidad Social es: " + personalidad.Social;
+            emprendedoraLabel.Text = "Su personalidad Emprendedor es: " + personalidad.Emprendedor;
+            convencionalLabel.Text = "Su personalidad Convencional es: " + personalidad.Convencional;
+        }
+
+
 
         private void slider_ValueChanged(object sender, ValueChangedEventArgs e)
         {
-            double value = barra.Value;
+            value = barra.Value;
             if (value >= 0 && value <= 1)
             {
                 valorLabel.Text = "En total desacuerdo";
+                barra.Value = 1;
             }
             if (value > 1 && value <= 2)
             {
                 valorLabel.Text = "En desacuerdo";
+                barra.Value = 2;
             }
             if (value > 2 && value <= 3)
             {
                 valorLabel.Text = "Neutro";
+                barra.Value = 3;
             }
             if (value > 3 && value <= 4)
             {
                 valorLabel.Text = "De acuerdo";
+                barra.Value = 4;
             }
             if (value > 4 && value <= 5)
             {
                 valorLabel.Text = "Muy de acuerdo";
+                barra.Value = 5;
             }
         }
     }

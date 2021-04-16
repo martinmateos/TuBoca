@@ -15,6 +15,7 @@
                 Text="¡Comencemos!" 
                 VerticalOptions="Center" HorizontalOptions="Center"
                 Clicked="BtnGuardarUser_Clicked"/>
+        <Button x:Name="Uni_Button" Text="Universidades en chivilcoy" Clicked="Uni_Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>
