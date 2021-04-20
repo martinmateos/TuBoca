@@ -1,0 +1,4432 @@
+[
+  {
+    "id": "",
+    "nombre": "Abogado ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Abogado civil ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Abogado penalista ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Acomodador de mercancías ",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Actor ",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Actuario (modelos matemáticos)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de archivos médicos ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de asistencia social ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de bases de datos ",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de finca ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de internet",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de recursos naturales ",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador de redes de cómputo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Administrador ejecutivo de propiedades ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Administrador hospitalario ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Agente de bienes raíces ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Agente de control de vida silvestre ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Agente de embarques",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Agente de reservaciones (transporte aéreo) ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Agente de seguros",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Agente de viajes",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Agente especial (servicios gubernamentales] ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Agricultor general",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ajustador de seguros",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Albañil (construcción)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Alergólogo",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Alfarero",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ama de casa (Administrador del hogar) ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista (evaluador) de control de calidad",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista ambiental (servicios gubernamentales) ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista de apoyo al usuario (analista de ventanilla de información)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Analista de comunicación de datos/telecomunicaciones",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista de crédito",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Analista de diseños en ingeniería",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Analista de presupuesto ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Analista de sistemas ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista de sistemas de cómputo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista de textos en clave",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Analista empresarial",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Anestesiólogo ",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Arbitro",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Arqueólogo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Arquitecto",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Arquitecto marino",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Artista de maquillaje de cuerpo",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Artista de modas",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asesor bibliotecario",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asesor en bienes muebles",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asistente administrativo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asistente de congresista ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente de electricista ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente de investigaciones ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asistente de producción (explosivos)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente de vestuario (ER) Asistente dental",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Asistente editorial",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente educativo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente farmacéutico (RI) Asistenta legal",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente médico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Asistente ortopédico",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Astrónomo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Atleta profesional ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Audiólogo (especialista en audición)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Auditor interno ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Auxiliar bibliotecario",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Auxiliar de oficina",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ayudante de terapia física",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Bailarín",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Bailarín de danza clásica",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Bailarín de danza folclórica",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Barbero",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Bibliotecario",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Biólogo",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Bombero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Botones",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Buzo",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Cajero de banco",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Camarista (hotel)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Camarógrafo (TV o cine)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Camillero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Cantante",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Capturista de datos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Caricaturista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Carnicero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Carpintero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Cartero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Cerrajero ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Chofer de ambulancias",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Chofer de tráiler",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Científico en ciencias políticas ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Cirujano",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Citotecnólogo (analista de cambios en células)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Cocinero, jefe de cocina",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Columnista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Comediante",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Comentarista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Compositor",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Comprador (de bolsa, de mercancías)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Conductor de autobús",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Conductor de flete terrestre",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Conductor de ruta de ventas",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Consejero de rehabilitación vocacional",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Consejero de seguridad",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Constructor de maquetas",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Consultor de Internet",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Contador",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Contador de costos",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Contador de sistemas",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Contador fiscal",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Contralor",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Contratista",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Coordinador de mantenimiento preventivo",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Coordinador de modas",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Coordinador de sitios en la red (especialista en desarrollo de la red)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Coreógrafo",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Corrector de estilo en textos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Corredor (financiero)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Corredor de divisas extranjeras",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Cosmetólogo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Criminólogo",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Crítico (de teatro, de literatura) ",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Chef",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Chofer de taxi",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Decorador",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Decorador de aparadores comerciales",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Decorador de bizcochos o pasteles",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Dentista",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Despachador de servicio (servicios públicos)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Despachador por radio",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Detective",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Dibujante aeronáutico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Dibujante arquitectónico",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Dibujante en jefe",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Dietista clínico",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director artístico",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director atlético",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director coral",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de biblioteca",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de deportes",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de educación especial",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de escenarios",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de escuela",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de institución correccional",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de investigación institucional en escuela",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de investigación y desarrollo",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de jardín infantil",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de museo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de orquesta",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de recursos informativos",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de servicios alimentarios",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Director de zoológico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Diseñador de arreglos florales",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Diseñador de interiores",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Diseñador de muebles",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Diseñador de ropa o de modas",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Doble cinematográfico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ebanista (CS) Economista",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Editor de libros (novelas, ensayos)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Editor de sitios en la red",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ejecutivo de cuentas",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Electricista",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de biblioteca, libros en cintas de audio",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de contabilidad",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de correos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de laboratorio (clínico)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de oficina",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de producciones de televisión",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Empleado de servicios de comida rápida",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Encargado de barra de cafetería",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Encargado de establos",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Encargado de la oficina de hipotecas",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Encargado de oficina de abastos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Encargado de salón de juegos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Enfermera práctica con licencia (Comadrona)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Enfermero militar",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Enfermero naval",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Enfermero, instructor",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Enfermero, supervisor",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "En marcador de cuadros",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ensamblador de instrumentos musicales",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ensamblador de juguetes",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ensamblador de muebles",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ensamblador de piezas electrónicas",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Entrenador de animales",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Entrenador de atletas profesionales",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Escenógrafo cinematográfico",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Escritor (prosa, ficción y no ficción)",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Escultor",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en investigación de inteligencia",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en operaciones de vuelo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en planeación de bodas",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en producciones audiovisuales",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en relaciones laborales",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Especialista en seguridad de computadoras",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Estadístico, aplicación",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Estilista de peinado ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Evaluador de licencias para conducir",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Exterminador de plagas (Fumigador)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Farmacéutico",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Físico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Fisioterapeuta",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Fotógrafo (estática)",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ganadero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Geógrafo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Geólogo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de aeropuerto",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de agencia de viajes",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de almacenaje",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de análisis de archivos",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de banco",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de club de golf",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de criadero de perros",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de educación y capacitación",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de empleo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de escenario (radio, TV, teatro)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de estación (radio y televisión)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de gasolinera",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de hotel o motel",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de huerto",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de locaciones (cine, TV)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de muelles marítmos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de operaciones de cómputo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de producción",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de seguridad",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de servicios de comida rápida",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Gerente de sucursal de almacén",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Gerente mercantil de comercio electrónico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ginecólogo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Grafólogo (experto/analista de la escritura)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Guardabosques",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Guardia de cruce peatonal escolar",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Guardia fronterizo",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Guardián de caza y pesca",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Guía de turistas",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Guitarrista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Historiador",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Hojalatero",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "ilustrador médico y científico",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero aeroportuario",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero agrícola",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero biomédico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero civil",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero de sistemas",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero de vuelos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero en electrónica médica",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero industrial",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero mecánico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Ingeniero químico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inmunólogo",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de aduanas",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de alimentos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de incendios",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de inmigración",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de línea de ensamblaje",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de mantenimiento",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de obras",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de puentes",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de seguridad",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de seguridad y salud ocupacional",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Inspector de tierras",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Instructor de danza clásica",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Instructor de modelaje",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Instructor de vuelo",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Interprete",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Intérprete para sordos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Investigador de servicios públicos",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Investigador privado",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jardinero paisajista",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de bomberos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de departamento (colegio o universidad)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de laboratorio químico ",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de mantenimiento aeroportuario",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de redacción de un periódico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Jefe de servicios municipales",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Joyero ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Juez",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Lector de medidor de servicios públicos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Locutor de noticias",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Maestro de ciencias empresariales",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Maestro de guardería ",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Maestro de preescolar, jardín Infantil o kínder",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Maletero ",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Manicurista ",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Maquinista",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Matemático",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Mecánico automotriz",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Médica aeroespacial",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Médico de consulta general (servicios médicos)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Médico del deporte",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Médico militar",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Médico naval",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Mercadología",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Mesero",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Meteorólogo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Mezclador de sonido",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Ministro/Sacerdote/Rabino",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Modelo de fotógrafos",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Modista",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Músico instrumental",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Navegante (Marinero)(Ciencias navales)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Oficial de policía",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Oficial de policía estatal de carreteras",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Oficial de servicio diplomático",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Oficial de servicios de salud pública",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Operador de conmutador",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Operador de estación de radio",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Operador de excavadora (bulldozer)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Operador de Información telefónica",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Operador de procesador de textos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Operador de radio-aeronave",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Operador de teléfonos (Telefonista)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Operador de tractor",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Optometrista",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Organista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Orientador vocacional",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Panadero (hotel y restaurante)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Patólogo lingüístico",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Peluquero de perros",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Percusionista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Pianista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Piloto de avión comercial",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Piloto de barco (Timonel)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Piloto del servicio de patrulla de caminos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Pintor",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Pintor de dibujos animados",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Planificador financiero",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Plomero (construcción)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Podiatra (especialista en enfermedades de los pies)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Poeta",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Político",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Preparador de impuestos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Presidente (cualquier industria)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Presidente de institución financiera",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Primer maquinista",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Productor ejecutivo, promociones",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de arte",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de artes Industriales",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de drama (teatro)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de educación para adulto",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de escuela primaria",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor de lengua inglesa",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Profesor universitario",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Programador de computadoras",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Programador de juegos",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Programador de tripulación/ grupo de trabajo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Promotor de proyectos de comercio electrónico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Proyeccionista en jefe (cine)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo clínico",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo educativo",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo experimental",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo industrial",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo organizacional",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psicólogo social",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Psiquiatra",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Puericulturista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Químico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Quiropráctico [Medicina física y rehabilitación]",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Radiólogo",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Recepcionista",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Registrador de museo",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Reparador de aparatos eléctricos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Reparador de aparatos electrodomésticos",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Reparador de bicicletas",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Reparador de botes",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Reparador de Instrumentos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Reportero",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Representante de conservación de energía",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Representante de seguridad de aerolínea",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Representante de servicios al cliente",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Representante de ventas, sistemas de seguridad",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Restaurador de papeles e Impresos",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Rotulador",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Sastre",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Secretario",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Secretarlo de juzgados",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Secretario médico",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Secretario municipal {Encargado de la oficina de registros (nacimiento, muerte, etc.)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Secretario social",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Sobrecargo (Asistente de vuelo)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Sociólogo",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Socorrista",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Soldador de arco",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de operación de presentaciones de espectáculos",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de parques",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de planta",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de procesador de palabras",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de reparación de carrocería de automóviles",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de revelado de película fotográfica",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de siderúrgica (preparación de minerales, fundición y refinamiento)",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de sistemas de aguas y alcantarillado",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de, taller de letreros y anuncios",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de telecomunicaciones",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de vivero forestal",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Subastador (Encargado de subastas)",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Superintendente de suministro de energía eléctrica",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de aislamiento térmico de edificios",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de almacenaje (Jefe de almacén)",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de cosméticos",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de distribución",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de distrito",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de educación especial",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de laboratorio (profesional y afín)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de laboratorio dental",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de mantenimiento (servicios públicos)",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de música",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Supervisor de operación de computadoras",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Taquillero",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico artesanal con esmaltes",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico artesanal con textiles",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico cirujano",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de efectos de sonido",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de electrocardiograma",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de electroencefalograma",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de equipo audiovisual",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de escenografía",
+    "realista": true,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de laboratorio clínico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de laboratorio de películas",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de laboratorio químico",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de sonido",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de televisión",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de ultrasonido",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico de urgencias médicas",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico dietista",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico en diseño asistido por computadora",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico en expedientes médicos",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico en telecomunicaciones",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Técnico vocacional",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Técnico zootecnista",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Tecnólogo en terapia de radiación",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Tecnólogo médico",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Terapeuta del lenguaje",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Terapeuta ocupacional",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Terapeuta recreacional",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Topógrafo marino",
+    "realista": true,
+    "investigador": false,
+    "artista": false,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Trabajador social de rehabilitación familiar",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Traductor",
+    "realista": false,
+    "investigador": true,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Valuador-tasador de bienes raíces",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": false,
+    "convencional": true
+  },
+  {
+    "id": "",
+    "nombre": "Valuado r-tasador de obras de arte",
+    "realista": false,
+    "investigador": true,
+    "artista": true,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Vendedor de aparatos electrodomésticos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Vendedor de automóviles",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Vendedor de productos farmacéuticos",
+    "realista": false,
+    "investigador": false,
+    "artista": false,
+    "social": true,
+    "emprendedor": true,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Veterinario",
+    "realista": true,
+    "investigador": true,
+    "artista": false,
+    "social": false,
+    "emprendedor": false,
+    "convencional": false
+  },
+  {
+    "id": "",
+    "nombre": "Violinista",
+    "realista": false,
+    "investigador": false,
+    "artista": true,
+    "social": false,
+    "emprendedor": true,
+    "convencional": false
+  }
+]
