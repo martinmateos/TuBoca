@@ -4,12 +4,7 @@
              x:Class="TuBoca.Paginas.Resultado">
     <ContentPage.Content>
         <StackLayout>
-            <Label x:Name="realistaLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Realista es:"/>
-            <Label x:Name="artisticaLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Artistica es:"/>
-            <Label x:Name="investidoraLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Investigadora es:"/>
-            <Label x:Name="socialLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Social es:"/>
-            <Label x:Name="emprendedoraLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Emprendedor es:"/>
-            <Label x:Name="convencionalLabel" LineBreakMode="CharacterWrap" Text="Su personalidad Conveniconal es:"/>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

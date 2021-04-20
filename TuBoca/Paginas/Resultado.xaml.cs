@@ -20,12 +20,7 @@ namespace TuBoca.Paginas
         //Test test = new Test();
         void MostrarResultados()
         {
-            realistaLabel.Text = realistaLabel.Text + Test.personalidad.Realista;
-            investidoraLabel.Text = investidoraLabel.Text + Test.personalidad.Investigador;
-            artisticaLabel.Text = artisticaLabel.Text + Test.personalidad.Artistico;
-            socialLabel.Text = socialLabel.Text + Test.personalidad.Social;
-            emprendedoraLabel.Text = emprendedoraLabel.Text + Test.personalidad.Emprendedor;
-            convencionalLabel.Text = convencionalLabel.Text + Test.personalidad.Convencional;
+            
         }
     }
 }
